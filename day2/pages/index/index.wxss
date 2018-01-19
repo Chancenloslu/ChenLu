@@ -1,0 +1,13 @@
+.nav{
+  white-space: nowrap;
+  background: #000;
+
+}
+.nav text{
+  margin-left:35rpx;
+  font-size:35rpx;
+  display: inline-blcok;
+  padding-bottom:10rpx;
+  color: #fff
+}
+

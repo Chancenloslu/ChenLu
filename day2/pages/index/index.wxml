@@ -1,0 +1,11 @@
+<scroll-view scroll-x="true" class="nav">
+<block wx:for="{{nav}}" wx:for-item="nav" wx:key="index">
+  <text>{{nav.name}}</text>
+</block>
+</scroll-view>
+
+<block wx:for="{{list}}" wx:key="index" wx:for-item="list">
+<view>{{list.data.title}}</view>
+<image src="{{list.data.images[0]}}"></image>
+
+</block>
