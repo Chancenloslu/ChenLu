@@ -1,8 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/self/self",
-    "pages/class/class"
+    "pages/class/class",
+    "pages/self/self"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -15,8 +15,8 @@
       {
         "pagePath": "pages/index/index",
         "text": "头条",
-        "iconPath": "icon/news1.png",
-        "selectedIconPath": "icon/news3.png"
+        "iconPath":"icon/news1.png",
+        "selectedIconPath":"icon/news3.png"
       },
       {
         "pagePath": "pages/class/class",
@@ -31,8 +31,8 @@
         "selectedIconPath": "icon/self3.png"
       }
     ],
-    "color": "#8a8a8a",
-    "selectedColor": "#ff8000",
-    "position": "bottom"
+    "color":"#8a8a8a",
+    "selectedColor":"#ff8000",
+    "position":"bottom"
   }
 }
